@@ -22,7 +22,7 @@ Reusable Bootstrap components (cards, navbar, modal)
 <br/>
 Easily customizable (colors, fonts, images)
 <br/>
-🧰 Technologies
-HTML5
-CSS3
-Bootstrap 5
+🧰 Technologies:
+HTML
+CSS
+Bootstrap 
