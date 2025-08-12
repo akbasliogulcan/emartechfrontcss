@@ -4,6 +4,7 @@ EmarTech Building
 https://emartechhh.netlify.app/
 
 A clean, responsive landing page for EmarTech Building built with HTML, CSS, and Bootstrap.
+<hr/>
 This repository contains a modern, mobile-first layout focused on showcasing a technology / real-estate / architecture project — hero section, features, gallery, team, contact form and a responsive navigation.
 🚀 Features
 Responsive layout (mobile → desktop) using Bootstrap 5
