@@ -2,7 +2,8 @@
 
 ## 🚀 Live Demo:
 <hr/>
-https://emartechhh.netlify.app/
+<a href="https://emartechhh.netlify.app" target="_blank">Demo</a>
+
 
 A clean, responsive landing page for EmarTech Building built with HTML, CSS, and Bootstrap.
 <br/>
