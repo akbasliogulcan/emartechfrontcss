@@ -1,8 +1,8 @@
 <h1>EmarTech Building</h1>
 
 ## 🚀 Live Demo:
-<hr/>
-<a href="https://emartechhh.netlify.app" target="_blank">Demo</a>
+
+<a href="https://emartechhh.netlify.app" target="_blank" rel="noopener noreferrer">Demo</a>
 
 
 A clean, responsive landing page for EmarTech Building built with HTML, CSS, and Bootstrap.
