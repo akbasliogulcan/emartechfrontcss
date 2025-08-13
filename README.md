@@ -3,7 +3,6 @@
 ## 🚀 Live Demo:
 
 <a href="https://emartechhh.netlify.app" target="_blank" rel="noopener noreferrer">Demo</a>
-<button onclick="window.open('https://emartechhh.netlify.app', '_blank')">Siteyi Aç</button>
 
 
 A clean, responsive landing page for EmarTech Building built with HTML, CSS, and Bootstrap.
